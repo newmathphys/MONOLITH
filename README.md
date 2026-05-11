@@ -71,4 +71,5 @@ CFR:           -0.26 (рост памяти)
 **Vital Kalinouski**
 
 ## License
+GNU GPL v3.0 - Copyright (c) 2026 Vital Kalinouski
 MIT

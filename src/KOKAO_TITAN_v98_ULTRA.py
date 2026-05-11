@@ -169,3 +169,6 @@ def grand_marathon():
 if __name__ == "__main__":
     omega_suite()
     grand_marathon()
+
+# Licensed under the GNU GPL v3.0
+# Copyright (c) 2026 Vital Kalinouski

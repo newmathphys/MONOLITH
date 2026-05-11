@@ -178,3 +178,6 @@ if __name__ == "__main__":
                 print(f"  → Avg prev ACC={np.mean(accs_prev):.2%} CFR={accs_prev[0]-accs_prev[-1]:.4f}")
     except Exception as e:
         print(f"  SKIP: {e}")
+
+# Licensed under the GNU GPL v3.0
+# Copyright (c) 2026 Vital Kalinouski
